@@ -1,7 +1,4 @@
 # parkinson-s-classsification
-Here’s the README with a new title:  
-
----
 
 # **Parkinson’s Disease Classification Using Attention-Based CNNs**  
 
